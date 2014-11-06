@@ -8,7 +8,7 @@ module SrtProcessor
     def shift(seconds)
       dialogs = output_dialogs(seconds)
       content = output_content(dialogs)
-      export(content)
+      Exporter.new(@output, content).export
     end
 
     def input_subtitle
@@ -16,10 +16,6 @@ module SrtProcessor
     end
 
     private
-    def export(content)
-      IO.write(@output, content)
-    end
-
     def output_content(dialogs)
       dialogs.map do |dialog|
         [dialog.id, [dialog.start_time, dialog.end_time].join(' --> '), dialog.text].join("\r\n")
