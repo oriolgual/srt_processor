@@ -7,8 +7,7 @@ module SrtProcessor
 
     def shift(seconds)
       dialogs = output_dialogs(seconds)
-      content = output_content(dialogs)
-      Exporter.new(@output, content).export
+      Exporter.new(@output, DialogConverter.new(dialogs).to_srt).export
     end
 
     def input_subtitle
@@ -16,12 +15,6 @@ module SrtProcessor
     end
 
     private
-    def output_content(dialogs)
-      dialogs.map do |dialog|
-        [dialog.id, [dialog.start_time, dialog.end_time].join(' --> '), dialog.text].join("\r\n")
-      end.join("\r\n\r\n")
-    end
-
     def output_dialogs(seconds)
       input_subtitle.dialogs.map do |dialog|
         shifted_start_time = Shifter.new(dialog.start_time).shift(seconds)

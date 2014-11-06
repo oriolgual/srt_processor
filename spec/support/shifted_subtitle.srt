@@ -20,22 +20,22 @@ Don't be afraid, OK?
 Little girl.
 
 7
-00:04:60,811 --> 00:05:3,091
+00:05:00,811 --> 00:05:03,091
 What's the difference
 between men and women?
 
 8
-00:05:3,171 --> 00:05:6,421
+00:05:03,171 --> 00:05:06,421
 - Is this a joke?
 - No, serious.
 
 9
-00:05:6,951 --> 00:05:9,861
+00:05:06,951 --> 00:05:09,861
 I never met a woman who knew
 how to turn off a light.
 
 10
-00:05:9,941 --> 00:05:12,999
+00:05:09,941 --> 00:05:12,999
 They're born thinking the
 switch only goes one way... On.
 
@@ -108,26 +108,26 @@ and say "Um, darling?"
 pair of boobs on this planet
 
 25
-00:05:57,402 --> 00:05:60,698
+00:05:57,402 --> 00:06:00,698
 just figured out that the light
 switch see, goes both ways,"
 
 26
-00:05:60,699 --> 00:06:3,281
+00:06:00,699 --> 00:06:03,281
 maybe we wouldn't have
 so much global warming."
 
 27
-00:06:3,331 --> 00:06:5,551
+00:06:03,331 --> 00:06:05,551
 - You say that?
 - Yeah.
 
 28
-00:06:5,591 --> 00:06:7,771
+00:06:05,591 --> 00:06:07,771
 Anyway, uh... Polite version...
 
 29
-00:06:8,241 --> 00:06:11,021
+00:06:08,241 --> 00:06:11,021
 Still man, that...
 that earns me this.
 
@@ -212,20 +212,20 @@ at turning off lights.
 Really good.
 
 47
-00:06:57,771 --> 00:06:60,071
+00:06:57,771 --> 00:07:00,071
 I don't know why
 sometimes we guess.
 
 48
-00:06:60,231 --> 00:07:2,111
+00:07:00,231 --> 00:07:02,111
 Not what I meant.
 
 49
-00:07:5,441 --> 00:07:6,841
+00:07:05,441 --> 00:07:06,841
 We didn't have a great night.
 
 50
-00:07:6,911 --> 00:07:12,191
+00:07:06,911 --> 00:07:12,191
 Look, man, I may have a... fail to
 amuse with my sermon, but I did try.
 
@@ -289,15 +289,15 @@ Look, man, that's just
 shit couples go through.
 
 64
-00:07:58,571 --> 00:07:61,011
+00:07:58,571 --> 00:08:01,011
 Nah, it's... It's a phase.
 
 65
-00:08:5,171 --> 00:08:7,351
+00:08:05,171 --> 00:08:07,351
 Last thing she said this morning?
 
 66
-00:08:7,831 --> 00:08:11,401
+00:08:07,831 --> 00:08:11,401
 Sometimes I wonder if you
 even care about us at all.
 
@@ -342,16 +342,16 @@ Highway 18 south GTAAD W217 243.
 Proceed with extreme caution.
 
 76
-00:09:3,081 --> 00:09:5,011
+00:09:03,081 --> 00:09:05,011
 Suspects are two male Caucasians.
 
 77
-00:09:5,121 --> 00:09:6,901
+00:09:05,121 --> 00:09:06,901
 Be advised, they have
 fired on police officers.
 
 78
-00:09:6,971 --> 00:09:9,791
+00:09:06,971 --> 00:09:09,791
 One Lincoln county
 officer is wounded.
 
@@ -394,17 +394,17 @@ Hey, we'll get them on one of
 those video shows, you know,
 
 87
-00:09:59,971 --> 00:09:61,801
+00:09:59,971 --> 00:10:01,801
 like World's craziest police chases,
 what do you think?
 
 88
-00:09:61,861 --> 00:10:4,111
+00:10:01,861 --> 00:10:04,111
 What I think, Leon,
 is that you need to stay focused.
 
 89
-00:10:4,181 --> 00:10:6,831
+00:10:04,181 --> 00:10:06,831
 Make sure you got a round in the
 chamber and your safety off.
 
@@ -414,7 +414,7 @@ Would be kind of cool to
 get on one of them shows.
 
 91
-00:11:4,041 --> 00:11:5,641
+00:11:04,041 --> 00:11:05,641
 Holy shit.
 
 92
@@ -427,7 +427,7 @@ Holy shit.
 Put the gun down!
 
 94
-00:12:4,971 --> 00:12:7,491
+00:12:04,971 --> 00:12:07,491
 - Rick!
 - I'm alright!
 
@@ -551,7 +551,7 @@ I'll just set this on
 your side table, ok?
 
 122
-00:14:7,981 --> 00:14:11,121
+00:14:07,981 --> 00:14:11,121
 That vase has something special.
 
 123
@@ -593,11 +593,11 @@ Lori!
 Lori!
 
 132
-00:23:57,613 --> 00:23:61,943
+00:23:57,613 --> 00:24:01,943
 Carl! Carl!
 
 133
-00:24:6,793 --> 00:24:9,463
+00:24:06,793 --> 00:24:09,463
 Lori! Carl!
 
 134
@@ -733,20 +733,20 @@ No, I got shot.
 Just shot, as far as I know.
 
 165
-00:27:58,743 --> 00:27:60,885
+00:27:58,743 --> 00:28:00,885
 Hey... Just let me...
 
 166
-00:28:3,563 --> 00:28:5,143
+00:28:03,563 --> 00:28:05,143
 Feels cooler now.
 
 167
-00:28:5,633 --> 00:28:8,173
+00:28:05,633 --> 00:28:08,173
 Fever would have
 killed you by now.
 
 168
-00:28:8,423 --> 00:28:10,003
+00:28:08,423 --> 00:28:10,003
 I don't think I have one.
 
 169
@@ -833,30 +833,30 @@ Man?
 No man...
 
 188
-00:29:57,500 --> 00:29:60,190
+00:29:57,500 --> 00:30:00,190
 What the hell was that out
 of your mouth just now?
 
 189
-00:29:60,240 --> 00:30:2,260
+00:30:00,240 --> 00:30:02,260
 - It wasn't a man.
 - You shot him.
 
 190
-00:30:2,340 --> 00:30:4,130
+00:30:02,340 --> 00:30:04,130
 In this street, out front, a man.
 
 191
-00:30:4,170 --> 00:30:7,460
+00:30:04,170 --> 00:30:07,460
 For him, you need glasses,
 that was a walker.
 
 192
-00:30:7,540 --> 00:30:9,310
+00:30:07,540 --> 00:30:09,310
 Come on.
 
 193
-00:30:9,590 --> 00:30:12,070
+00:30:09,590 --> 00:30:12,070
 Sit down, before you fall down.
 
 194
@@ -896,15 +896,15 @@ know what is going on?
 I woke up today.
 
 202
-00:30:58,340 --> 00:30:60,450
+00:30:58,340 --> 00:31:00,450
 In a hospital.
 
 203
-00:30:61,470 --> 00:31:3,640
+00:31:01,470 --> 00:31:03,640
 Came home, that's all I know.
 
 204
-00:31:7,110 --> 00:31:10,430
+00:31:07,110 --> 00:31:10,430
 - But you know about the dead people, right?
 - Yeah, I saw a lot of that.
 
@@ -970,25 +970,25 @@ Probably wander off by morning.
 Well, listen...
 
 218
-00:31:56,800 --> 00:31:60,650
+00:31:56,800 --> 00:32:00,650
 One thing I do know...
 Don't you get bit!
 
 219
-00:31:61,240 --> 00:32:4,420
+00:32:01,240 --> 00:32:04,420
 We saw your bandage and
 that's why we were afraid of.
 
 220
-00:32:5,200 --> 00:32:7,100
+00:32:05,200 --> 00:32:07,100
 Bites kill you.
 
 221
-00:32:7,180 --> 00:32:9,020
+00:32:07,180 --> 00:32:09,020
 The fever... burns you out.
 
 222
-00:32:9,110 --> 00:32:12,020
+00:32:09,110 --> 00:32:12,020
 But then after a while...
 
 223
@@ -1030,16 +1030,16 @@ I hope so.
 - Yeah?
 
 232
-00:32:59,790 --> 00:32:61,650
+00:32:59,790 --> 00:33:01,650
 Did you ask him?
 
 233
-00:33:4,320 --> 00:33:7,170
+00:33:04,320 --> 00:33:07,170
 Your gun shot...
 We got a little bet going.
 
 234
-00:33:7,230 --> 00:33:11,240
+00:33:07,230 --> 00:33:11,240
 My boy say you're a...
 bank robber...
 
@@ -1090,15 +1090,15 @@ It's the blue one,
 down the street.
 
 246
-00:33:59,940 --> 00:34:2,100
+00:33:59,940 --> 00:34:02,100
 Same one as last time.
 
 247
-00:34:2,180 --> 00:34:4,380
+00:34:02,180 --> 00:34:04,380
 I think we're ok.
 
 248
-00:34:7,050 --> 00:34:9,900
+00:34:07,050 --> 00:34:09,900
 That noise... Will it
 bring more of them?
 
@@ -1132,15 +1132,15 @@ I said go! Come on!
 Come on, quiet.
 
 256
-00:34:59,800 --> 00:34:61,560
+00:34:59,800 --> 00:35:01,560
 It's ok, here.
 
 257
-00:34:61,920 --> 00:35:3,480
+00:35:01,920 --> 00:35:03,480
 Cry into the pillow.
 
 258
-00:35:3,550 --> 00:35:4,930
+00:35:03,550 --> 00:35:04,930
 Can you remember?
 
 259
@@ -1158,12 +1158,12 @@ Nothin' I can do about it here...
 That fever, man...
 
 262
-00:35:60,400 --> 00:36:2,980
+00:36:00,400 --> 00:36:02,980
 Her skin gave off
 heat like a furnace...
 
 263
-00:36:8,620 --> 00:36:13,950
+00:36:08,620 --> 00:36:13,950
 Should have put her down, I should
 have put her down, I know that, but...
 
@@ -1190,11 +1190,11 @@ at least one more time.
 They're dead.
 
 269
-00:36:59,330 --> 00:36:61,570
+00:36:59,330 --> 00:37:01,570
 Except for something in the brain.
 
 270
-00:36:61,630 --> 00:37:4,060
+00:37:01,630 --> 00:37:04,060
 That's why it's gotta be the head.
 
 271
@@ -1250,16 +1250,16 @@ You see the framed
 photos on the walls?
 
 283
-00:37:60,430 --> 00:37:61,480
+00:38:00,430 --> 00:38:01,480
 Neither do I.
 
 284
-00:37:61,560 --> 00:38:4,560
+00:38:01,560 --> 00:38:04,560
 Some random thief took
 those too, you think?
 
 285
-00:38:7,910 --> 00:38:10,720
+00:38:07,910 --> 00:38:10,720
 My photo albums,
 family pictures, all gone.
 
@@ -1357,12 +1357,12 @@ Dwayne... Dress in
 room back there.
 
 307
-00:39:59,151 --> 00:40:2,341
+00:39:59,151 --> 00:40:02,341
 - What would you say, Dwayne?
 - Thank you.
 
 308
-00:40:7,901 --> 00:40:10,161
+00:40:07,901 --> 00:40:10,161
 Atlanta sounds like a good deal.
 
 309
@@ -1420,28 +1420,28 @@ Plan to move on?
 Haven't worked up to it yet.
 
 322
-00:40:59,641 --> 00:40:61,861
+00:40:59,641 --> 00:41:01,861
 A lot of it's gone missing.
 
 323
-00:41:2,711 --> 00:41:4,341
+00:41:02,711 --> 00:41:04,341
 Dad, can I learn to shoot?
 
 324
-00:41:4,481 --> 00:41:5,891
+00:41:04,481 --> 00:41:05,891
 I'm old enough.
 
 325
-00:41:5,951 --> 00:41:7,251
+00:41:05,951 --> 00:41:07,251
 Hell yes you're going to learn.
 
 326
-00:41:7,291 --> 00:41:9,681
+00:41:07,291 --> 00:41:09,681
 We gotta do it carefully,
 teach you to respect the weapon.
 
 327
-00:41:9,761 --> 00:41:11,781
+00:41:09,761 --> 00:41:11,781
 That's right. It's not a toy.
 
 328
@@ -1504,7 +1504,7 @@ You sure you won't come along?
 A few more days...
 
 342
-00:41:59,692 --> 00:42:3,811
+00:41:59,692 --> 00:42:03,811
 By the end, Dwayne will know how
 to shoot and I won't be so rusty.
 
@@ -1577,11 +1577,11 @@ Yes, sir.
 Leon Bessi?
 
 359
-00:42:61,721 --> 00:43:3,451
+00:43:01,721 --> 00:43:03,451
 Didn't think much of him.
 
 360
-00:43:3,551 --> 00:43:8,811
+00:43:03,551 --> 00:43:08,811
 Careless and dumb,
 but... can't leave him like this.
 
@@ -1615,7 +1615,7 @@ Daddy?
 It's alright, Dwayne.
 
 368
-00:46:59,911 --> 00:47:3,141
+00:46:59,911 --> 00:47:03,141
 You stay there, son.
 Don't come up here.
 
@@ -1624,11 +1624,11 @@ Don't come up here.
 Come on, baby.
 
 370
-00:48:4,461 --> 00:48:7,361
+00:48:04,461 --> 00:48:07,361
 I'm sorry this happened to you.
 
 371
-00:48:61,101 --> 00:49:2,941
+00:49:01,101 --> 00:49:02,941
 Come on, come on.
 
 372
@@ -1636,20 +1636,20 @@ Come on, come on.
 Broadcasting on emergency channel.
 
 373
-00:49:58,562 --> 00:49:61,492
+00:49:58,562 --> 00:50:01,492
 We'll be approaching
 Atlanta on Highway 85.
 
 374
-00:50:2,532 --> 00:50:4,682
+00:50:02,532 --> 00:50:04,682
 Anybody reads, please respond.
 
 375
-00:50:6,622 --> 00:50:8,522
+00:50:06,622 --> 00:50:08,522
 Hello. Hello.
 
 376
-00:50:8,612 --> 00:50:11,102
+00:50:08,612 --> 00:50:11,102
 Can anybody hear my voice?
 
 377
@@ -1718,16 +1718,16 @@ Come on, son. You know best
 how to work this thing,
 
 392
-00:50:58,552 --> 00:50:61,092
+00:50:58,552 --> 00:51:01,092
 Hello, hello, is the person
 who calls still on the air?
 
 393
-00:51:4,342 --> 00:51:5,432
+00:51:04,342 --> 00:51:05,432
 This is officer Shane Walsh,
 
 394
-00:51:5,433 --> 00:51:8,082
+00:51:05,433 --> 00:51:08,082
 broadcasting a person unknown,
 please respond.
 
@@ -1810,17 +1810,17 @@ you know that.
 Yes, sir.
 
 413
-00:51:58,632 --> 00:51:60,502
+00:51:58,632 --> 00:52:00,502
 Hey, hey, hey, come on,
 take a sit, buddy.
 
 414
-00:51:60,552 --> 00:52:2,562
+00:52:00,552 --> 00:52:02,562
 You're alright, go on,
 you're alright.
 
 415
-00:52:5,982 --> 00:52:7,772
+00:52:05,982 --> 00:52:07,772
 What, you're pissed at me?
 
 416
@@ -1897,7 +1897,7 @@ his mother too, ok?
 You tell me okay.
 
 432
-00:52:61,882 --> 00:53:3,262
+00:53:01,882 --> 00:53:03,262
 It's not hard.
 
 433
@@ -1977,15 +1977,15 @@ Food, shelter, people,
 other horses too, I bet.
 
 451
-00:56:60,486 --> 00:57:2,376
+00:57:00,486 --> 00:57:02,376
 How's that sound?
 
 452
-00:57:2,876 --> 00:57:8,566
+00:57:02,876 --> 00:57:08,566
 There we go. Good boy. Good boy.
 
 453
-00:57:8,626 --> 00:57:11,426
+00:57:08,626 --> 00:57:11,426
 Now come with me. Come with me.
 
 454
@@ -2006,7 +2006,7 @@ Steady. It's just a few.
 Nothing we can't outrun.
 
 458
-01:00:2,599 --> 01:00:4,589
+01:00:02,599 --> 01:00:04,589
 Okay.
 
 459
